@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gr8rehanna
+- 👋 Hi, I’m Rehanna from Kashmir (INDIA)
 - 👀 I’m interested in 🔏 Decentralised stuff.
 - 🌱 I’m currently learning Python, Zend, nodejs.
 - 💞️ I’m looking to collaborate on @mastadon
