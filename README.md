@@ -2,7 +2,8 @@
 - 👀 I’m interested in 🔏 Decentralised stuff.
 - 🌱 I’m currently learning Python, Zend, nodejs.
 - 💞️ I’m looking to collaborate on @mastadon
-- 📫 How to reach me 🤔 
+- 📫 How to reach me 🤔
+-  [Buy me coffee](https://github.com/sponsors/gr8rehanna)
 
 <!---
 gr8rehanna/gr8rehanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
