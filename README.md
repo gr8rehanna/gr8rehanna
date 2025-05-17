@@ -10,11 +10,11 @@ gr8rehanna/gr8rehanna is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=<hr>&theme=tokyonight-duo&border_radius=1.0&date_format=j%20M%5B%20Y%5D&card_width=655" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=gr8rehanna&theme=tokyonight-duo&border_radius=1.0&date_format=j%20M%5B%20Y%5D&card_width=655" alt="streak graph"  />
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=<hr>&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=<hr>&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gr8rehanna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gr8rehanna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
   <br>
   <hr>
   </div>
